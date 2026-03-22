@@ -1,7 +1,9 @@
 # build output
 dist/
+dist-meta/
 distmd/
 distllms/
+
 # generated types
 .astro/
 
